@@ -24,4 +24,4 @@ This is a static website for a fictional construction company called **CORREX** 
 
 ## 📡 Live Demo
 
-[View on GitHub Pages](https://urvashi80.githublso/Builder-Website/)
+[View on GitHub Pages](https://urvashi80.github.io/Builder-Website/)
